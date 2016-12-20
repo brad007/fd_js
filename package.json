@@ -1,0 +1,17 @@
+{
+  "name": "projects-food_district",
+  "description": "Notification script",
+  "version": "0.0.1",
+  "private": true,
+  "license": "Apache Version 2.0",
+  "author": "Randomz Experiment",
+  "engines": {
+    "node": ">=4.3.2"
+  },
+  "scripts": {
+    "start": "node food_district.js"
+  },
+  "dependencies": {
+    "express": "4.14.0"
+  }
+}
