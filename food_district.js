@@ -4,7 +4,7 @@ var request = require('request');
 var API_KEY = "AAAA-wd3EMk:APA91bEQ_FhQdPlOVG0BjhA0Vd6gkYYs0jyjMK0BqzWHJ8-nSBmu_C4VI-f0dCEWOZ13O6guRmNt20WdNUObcyCxlUTGQrunEr7GtC9p3ikCgH2jbpre7G5xAObi47MOuf6lRuQK4z4n9OrAdKMOkHOByQHxcPyvyg"; // Your Firebase Cloud Messaging Server API key
 
 // Fetch the service account key JSON file contents
-var  = require("path/to/serviceAccountKey.json");
+var serviceAccount = require("C:/Users/Brad/Documents/projects/food_district/food-district-143013-firebase-adminsdk-5hmam-ce2c26e6e7.json");
 
 // Initialize the app with a service account, granting admin privileges
 firebase.initializeApp({

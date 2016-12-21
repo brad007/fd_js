@@ -1,9 +1,9 @@
 {
-  "name": "projects-food_district",
+  "name": "food_district",
   "description": "Notification script",
   "version": "0.0.1",
   "private": true,
-  "license": "Apache Version 2.0",
+  "license": "UNLICENSED",
   "author": "Randomz Experiment",
   "engines": {
     "node": ">=4.3.2"
@@ -12,6 +12,21 @@
     "start": "node food_district.js"
   },
   "dependencies": {
-    "express": "4.14.0"
-  }
+    "express": "4.14.0",
+    "firebase-admin": "^4.0.4"
+  },
+  "main": "food_district.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brad007/food_district-nodejs.git"
+  },
+  "keywords": [
+    "firebase",
+    "notifications"
+  ],
+  "bugs": {
+    "url": "https://github.com/brad007/food_district-nodejs/issues"
+  },
+  "homepage": "https://github.com/brad007/food_district-nodejs#readme"
 }
