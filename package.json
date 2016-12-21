@@ -19,14 +19,14 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/brad007/food_district-nodejs.git"
+    "url": "git+https://github.com/brad007/fd_js.git"
   },
   "keywords": [
     "firebase",
     "notifications"
   ],
   "bugs": {
-    "url": "https://github.com/brad007/food_district-nodejs/issues"
+    "url": "https://github.com/brad007/fd_js/issues"
   },
-  "homepage": "https://github.com/brad007/food_district-nodejs#readme"
+  "homepage": "https://github.com/brad007/fd_js#readme"
 }
